@@ -13,8 +13,6 @@ title: Gavin South's Resume
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
---
-
 ## Education
 
 `2019-2022`
@@ -25,8 +23,6 @@ Full academic scholarship with a **3.98 GPA**
 College of Mathematics: Bachelor Level Data Science Program • Minor Level Statistics • Minor Level Sociology
 
 Member of Data Science Society | Tutor In R, Excel, Statistics | Teachers Assistant for Statistics & Data Science
-
---
 
 ## Related Experience
 
@@ -52,11 +48,10 @@ In the software engineering side of the tech industry, I have used pseudocode, E
 
 **Data Science Blogging and Collaboration**| Taking my insights onto GitHub and blogs to explain building charts & data wrangling.
 
---
+## Why I’m a data scientist
 
-Why I’m a data scientist
 I personally believe that data and the interpretation of it is paramount in all fields and disciplines right now. Out of the
 many things I have worked on and become familiar with, Data Science has been somewhat of a calling for me. I thoroughly enjoy finding insights through data and helping anyone that is curious understand it in simple terms as to make better more informed decision. I love what I do in this area and I’m trying to push the limits to see what’s possible and what insights are out there. I have technical skills yes, but to not be naïve, I have strong interpersonal skills and am actively pursuing a minor degree in sociology. I’m pursuing these skills and have chosen to be well round because; data only means something if it can be interpreted and explained in relatable context. That’s what’s important to me, philanthropy and the truth that all data shares.
 
 
-
+<br>
