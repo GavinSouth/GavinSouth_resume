@@ -1,4 +1,5 @@
 ---
+layout: cv
 title: Gavin South's Resume
 ---
 # Gavin South
