@@ -24,6 +24,7 @@ College of Mathematics: Bachelor Level Data Science Program • Minor Level Stat
 
 Member of Data Science Society | Tutor In R, Excel, Statistics | Teachers Assistant for Statistics & Data Science 
 
+
 ## Related Experience
 
 ` `
