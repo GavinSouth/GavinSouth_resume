@@ -1,16 +1,13 @@
 ---
-layout: cv
 title: Gavin South's Resume
 ---
 # Gavin South
-
-## Data Scientist
 
 <div id="webaddress">
 <a href="gavinsouth@msn.com">Email</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/gavin-south-13564754/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/GavinSouth">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
