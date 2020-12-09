@@ -22,7 +22,7 @@ Full academic scholarship with a **3.98 GPA**
 
 College of Mathematics: Bachelor Level Data Science Program • Minor Level Statistics • Minor Level Sociology
 
-Member of Data Science Society | Tutor In R, Excel, Statistics | Teachers Assistant for Statistics & Data Science
+Member of Data Science Society | Tutor In R, Excel, Statistics | Teachers Assistant for Statistics & Data Science 
 
 ## Related Experience
 
