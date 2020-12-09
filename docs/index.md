@@ -3,24 +3,28 @@ layout: cv
 title: Gavin South's Resume
 ---
 # Gavin South
-Undergrad Student at BYU-I for Data Science, Sociology, Philanthropist.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="gavinsouth@msn.com">Email</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/gavin-south-13564754/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
+
+--
 
 ## Education
 
 `2019-2022`
 __Brigham Young University Idaho__, Rexburg, ID
 
-- Full academic scholarship with 3.98 GPA
+Full academic scholarship with a **3.98 GPA**
 
+College of Mathematics: Bachelor Level Data Science Program • Minor Level Statistics • Minor Level Sociology
+
+Member of Data Science Society | Tutor In R, Excel, Statistics | Teachers Assistant for Statistics & Data Science
 
 ## Related Experience
 
